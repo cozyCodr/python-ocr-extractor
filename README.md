@@ -42,13 +42,14 @@ pip install -r requirements.txt
 
 
 ## Project Structure
+```
 python-ocr-extractor/
 ├── backend/
 │   ├── app.py              # Flask application
 │   └── requirements.txt    # Python dependencies
 ├── frontend-app/          # Frontend application
 └── .gitignore
-
+```
 
 ## API Endpoints
 **POST /extract_text**
