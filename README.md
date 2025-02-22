@@ -1,2 +1,1 @@
-"# python-ocr-extractor" 
-"# python-ocr-extractor" 
+# Python-ocr-extractor
